@@ -1,3 +1,4 @@
 www.baidu.com
 www.taobao.com
 www.google.org
+www.sougou.com
